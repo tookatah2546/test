@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>TC01</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>af6ea65a-413b-41a4-92cd-621d7cd4d570</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>eat %E0%B8%81%E0%B8%B4%E0%B8%99</data>
+   <data>sit %E0%B8%99%E0%B8%B1%E0%B9%88%E0%B8%87</data>
+   <data>look %E0%B8%94%E0%B8%B9</data>
+   <data>love %E0%B8%A3%E0%B8%B1%E0%B8%81</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>ENG</name>
+      <size>4</size>
+   </internalDataColumns>
+   <internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>TH</name>
+      <size>4</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>
